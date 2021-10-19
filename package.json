@@ -2,7 +2,7 @@
   "name": "react-portfolio2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/seaweedq12/react-portfolio2",
+  "homepage": "https://seaweedq12.github.io/react-portfolio2/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",

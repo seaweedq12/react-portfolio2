@@ -1,6 +1,12 @@
 
-h1{
+.h1{
   font-size: 2.5rem !important;
+  margin-bottom: 1rem !important;
+}
+
+.sum {
+  margin: auto;
+  width: 95%;
 }
 
 .btn{
@@ -12,9 +18,6 @@ h1{
 .body{
   position: relative;
   min-height: 100vh;
-}
-.about {
-  max-width: 1000px;
 }
 
 .lightb{
@@ -142,3 +145,16 @@ h1{
   bottom : 0px;
 }
 
+@media screen and (min-width: 1000px){
+  .sum{
+    margin: auto;
+    width: 80%;
+  }
+  .avatar{
+    float: left;
+    margin-left: 1px;
+    margin-right: 10px;
+    width: 270px;
+    height: 300px;
+  }
+}
